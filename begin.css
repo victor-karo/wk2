@@ -1,0 +1,20 @@
+*{
+    color: blue; 
+}*
+{
+    color: forestgreen; 
+}
+
+
+main p{
+    color: blueviolet;
+}
+main> p{
+    color: black;
+}
+h2, h3{background-color: black;}
+h2 + h3{background-color: indigo;}
+
+h2 ~ *{
+    background-color: brown;
+}

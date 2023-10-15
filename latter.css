@@ -1,0 +1,8 @@
+h2 {color: crimson; } 
+h2 ~p{background-color: magenta;}
+ 
+time{background-color: blue;}
+sub, sup, abbr{background-color: blue;}
+
+address em, strong{color: blue;} 
+dd abbr{background-color: cyan;}
